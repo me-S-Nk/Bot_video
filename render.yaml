@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: video-downloader-bot
+    env: python
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: BOT_TOKEN
+        value: your_telegram_bot_token
+      - key: TEMP_DIR
+        value: /tmp/video_downloads
+      # Опционально для приватного контента:
+      - key: INSTAGRAM_USERNAME
+        value: your_instagram_username
+      - key: INSTAGRAM_PASSWORD
+        value: your_instagram_password
+    healthCheckPath: /health
+    plan: free

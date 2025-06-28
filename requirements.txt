@@ -1,0 +1,6 @@
+python-telegram-bot==21.1.1
+yt-dlp==2025.06.01
+requests==2.32.0
+fastapi==1.0.0
+uvicorn==0.29.0
+python-dotenv==2.0.0
