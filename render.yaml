@@ -6,6 +6,8 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
     envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.6"
       - key: BOT_TOKEN
         value: your_telegram_bot_token
       - key: TEMP_DIR
