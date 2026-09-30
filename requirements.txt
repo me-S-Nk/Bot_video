@@ -1,6 +1,5 @@
-python-telegram-bot==21.1.1
-yt-dlp>=2024.6.29
-requests==2.32.0
-fastapi==1.0.0
-uvicorn==0.29.0
-python-dotenv==2.0.0
+aiogram>=3.4.1
+python-dotenv>=1.0.1
+yt-dlp>=2024.3.10
+gallery-dl>=1.30.0
+requests>=2.32.5

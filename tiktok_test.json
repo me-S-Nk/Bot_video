@@ -1,0 +1,59 @@
+{
+    "code": 0,
+    "msg": "success",
+    "processed_time": 0.5453,
+    "data": {
+        "id": "7106594312292453675",
+        "region": "US",
+        "title": "how many frogs did you find? \ud83d\udc38 check out tiktok\u2019s #Minecraft community today! @Gorillo",
+        "content_desc": [],
+        "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/beee36ba02ef449397b2d128bc32dd9d_1654632931~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=161ce541&x-expires=1777287600&x-signature=mS63IwYDZZmoGSSU8MBC15U8yWE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&biz_tag=tt_video&s=AWEME_DETAIL&sc=cover",
+        "ai_dynamic_cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/07edb7fb43d0469da286ffa8e6a10cf3_1654632930~tplv-tiktokx-origin.image?dr=8606&refresh_token=94d3a340&x-expires=1777287600&x-signature=nslCJfNvJoYo6UkcgNHc0btMdEI%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&sc=dynamic_cover&biz_tag=tt_video&s=AWEME_DETAIL",
+        "origin_cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/bc4fdc1d910a483489b02822d6b9c2b9_1654632930~tplv-tiktokx-360p.webp?dr=8600&refresh_token=7795a2a6&x-expires=1777287600&x-signature=P7RI6%2B1nZRFNFzUWcxDvCqY3T1Q%3D&t=bacd0480&ps=d97f9a4f&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&biz_tag=tt_video&s=AWEME_DETAIL&sc=feed_cover",
+        "duration": 24,
+        "play": "https://v19.tiktokcdn-us.com/ac62a6c70e001931966afed5ea3133e1/69ee4f1f/video/tos/useast5/tos-useast5-ve-0068c003-tx/290d9614206e4076b11579a437577a48/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=1046&ft=4bUg3MMD8Zmo0i_ZLx4jV6iNpRFrKsd.&mime_type=video_mp4&rc=aWdlODs6aDUzOGloMzg7NUBpM3F2cjU6Zmx1ZDMzZzczNEA1LWE2MDAuXzExYGIxNTJgYSNgYmFgcjQwMGNgLS1kMS9zcw%3D%3D&vvpl=1&l=20260426114439801314461F1971A9989A&btag=e000b8200",
+        "wmplay": "https://v19.tiktokcdn-us.com/cef9ddf90c1965edefca7e835423c945/69ee4f1f/video/tos/useast5/tos-useast5-pve-0068-tx/ba0aec3465404e68a34b59f36151646a/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=1052&ft=4bUg3MMD8Zmo0i_ZLx4jV6iNpRFrKsd.&mime_type=video_mp4&rc=Njc1OGhkNTo5Ojc8aWgzZUBpM3F2cjU6Zmx1ZDMzZzczNEAvMC9fNF4vX18xNWA0YTItYSNgYmFgcjQwMGNgLS1kMS9zcw%3D%3D&vvpl=1&l=20260426114439801314461F1971A9989A&btag=e000b8200",
+        "hdplay": "https://v16m-default.tiktokcdn-us.com/44b29db89dedbc4b560f48ea024e8de5/69ee4f20/video/tos/useast5/tos-useast5-ve-0068c001-tx/a553c48afebb4d07ba4137533153bc73/?a=0&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=1068&ft=kLMdqyt4ZLo0PD3koKfaQ9YdbKA6JE.C~&mime_type=video_mp4&rc=PDZlZWY2NzQ0OTM7OTc3OEBpM3F2cjU6Zmx1ZDMzZzczNEAxLTNgNmNgNjExLmNhMDNfYSNgYmFgcjQwMGNgLS1kMS9zcw%3D%3D&vvpl=1&l=202604261144405E769315459C95BDA225&btag=e000b8000",
+        "size": 3288875,
+        "wm_size": 3308379,
+        "hd_size": 3360445,
+        "music": "https://v16-ies-music.tiktokcdn-us.com/3f207b642c34e50eb28295d0c8363cca/69f73557/video/tos/useast5/tos-useast5-v-27dcd7-tx/400ba31d967e4a48b0378f52036accc7/?a=583965&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=125&ft=4KUr5MMD8Zmo0i_ZLx4jV6iNpRFrKsd.&mime_type=audio_mpeg&rc=aThlN2Y1ZmRkaDszMzc2N0BpajV0bTM6ZnJ1ZDMzZzU8NEBeNmAzLzYzNjIxYy9iNF8zYSNiajFxcjRvMGNgLS1kMS9zcw%3D%3D&vvpl=1&l=20260426114439801314461F1971A9989A&btag=e000f8000&shp=d05b14bd&shcp=-",
+        "music_info": {
+            "id": "7106594280055130923",
+            "title": "original sound - tiktok",
+            "play": "https://v16-ies-music.tiktokcdn-us.com/3f207b642c34e50eb28295d0c8363cca/69f73557/video/tos/useast5/tos-useast5-v-27dcd7-tx/400ba31d967e4a48b0378f52036accc7/?a=583965&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=125&ft=4KUr5MMD8Zmo0i_ZLx4jV6iNpRFrKsd.&mime_type=audio_mpeg&rc=aThlN2Y1ZmRkaDszMzc2N0BpajV0bTM6ZnJ1ZDMzZzU8NEBeNmAzLzYzNjIxYy9iNF8zYSNiajFxcjRvMGNgLS1kMS9zcw%3D%3D&vvpl=1&l=20260426114439801314461F1971A9989A&btag=e000f8000&shp=d05b14bd&shcp=-",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba67b11de451691939223e9d978e613a~tplv-tiktokx-cropcenter-q:1080:1080:q70.jpeg?dr=8837&idc=useast5&ps=87d6e48a&refresh_token=b4c465eb&s=AWEME_DETAIL&sc=avatar&shcp=1d1a97fc&shp=d05b14bd&t=223449c4&x-expires=1777287600&x-signature=JdvmbeusuNehGPkelojVRg4LWcg%3D",
+            "author": "TikTok",
+            "original": true,
+            "duration": 24,
+            "album": ""
+        },
+        "play_count": 561733,
+        "digg_count": 98731,
+        "comment_count": 1331,
+        "share_count": 127,
+        "download_count": 130,
+        "collect_count": 58502,
+        "create_time": 1654632929,
+        "anchors": null,
+        "anchors_extras": "",
+        "is_ad": false,
+        "commerce_info": {
+            "adv_promotable": false,
+            "auction_ad_invited": false,
+            "branded_content_type": 0,
+            "is_diversion_ad": 0,
+            "organic_log_extra": "{\"req_id\":\"20260426114439801314461F1971A9989A\"}",
+            "with_comment_filter_words": false
+        },
+        "commercial_video_info": "",
+        "item_comment_settings": 0,
+        "mentioned_users": "6821528796420703237",
+        "author": {
+            "id": "107955",
+            "unique_id": "tiktok",
+            "nickname": "TikTok",
+            "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba67b11de451691939223e9d978e613a~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=8834&idc=useast5&ps=87d6e48a&refresh_token=523be1f6&s=AWEME_DETAIL&sc=avatar&shcp=1d1a97fc&shp=d05b14bd&t=223449c4&x-expires=1777287600&x-signature=Q4Kvrzohv8nW9ocuIOti29lBXO4%3D"
+        }
+    }
+}
